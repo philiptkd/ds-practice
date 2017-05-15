@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1494550026 source:c:\users\phil\desktop\data structures\heaps\main.c
+	"main.h"
+	<stdio.h>
+
+1494549842 c:\users\phil\desktop\data structures\heaps\main.h
+	"structs.h"
+	"minHeap.h"
+	"minHeap2.h"
+	"binomialHeap.h"
+	"fibHeap.h"
+
+1494028061 source:c:\users\phil\desktop\data structures\heaps\minheap.c
+	"main.h"
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+
+1494028116 source:c:\users\phil\desktop\data structures\heaps\mergekarrays.c
+	"main.h"
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+
+1494028049 source:c:\users\phil\desktop\data structures\heaps\minheap2.c
+	"main.h"
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+
+1494023005 c:\users\phil\desktop\data structures\heaps\minheap.h
+
+1494486814 c:\users\phil\desktop\data structures\heaps\structs.h
+
+1494023004 c:\users\phil\desktop\data structures\heaps\minheap2.h
+
+1494039973 source:c:\users\phil\desktop\data structures\heaps\heapsort.c
+	"main.h"
+
+1494042385 source:c:\users\phil\desktop\data structures\heaps\ksmallest.c
+	"main.h"
+	<stdio.h>
+	<stdlib.h>
+
+1494402979 c:\users\phil\desktop\data structures\heaps\binomialheap.h
+
+1494405547 source:c:\users\phil\desktop\data structures\heaps\binomialheap.c
+	"main.h"
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1494492348 c:\users\phil\desktop\data structures\heaps\fibheap.h
+
+1494492574 source:c:\users\phil\desktop\data structures\heaps\fibheap.c
+	"main.h"
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1494549821 source:c:\users\phil\desktop\data structures\heaps\sortnearlysorted.c
+	"main.h"
+

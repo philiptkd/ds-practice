@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1493196593 source:c:\users\phil\desktop\data structures\binarysearchtrees\newnode.c
+	"main.h"
+	<stdlib.h>
+
+1493272183 c:\users\phil\desktop\data structures\binarysearchtrees\main.h
+
+1493272765 source:c:\users\phil\desktop\data structures\binarysearchtrees\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1492616355 source:c:\users\phil\desktop\data structures\binarysearchtrees\printtree.c
+	"main.h"
+	<stdio.h>
+
+1492034324 source:c:\users\phil\desktop\data structures\binarysearchtrees\listqueue.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1492984609 source:c:\users\phil\desktop\data structures\binarysearchtrees\search.c
+	"main.h"
+
+1492983289 source:c:\users\phil\desktop\data structures\binarysearchtrees\insert.c
+	<stdlib.h>
+	"main.h"
+
+1492986294 source:c:\users\phil\desktop\data structures\binarysearchtrees\delete.c
+	<stdlib.h>
+	"main.h"
+
+1493087366 source:c:\users\phil\desktop\data structures\binarysearchtrees\findpands.c
+	"main.h"
+	<stdio.h>
+
+1493084226 source:c:\users\phil\desktop\data structures\binarysearchtrees\isbst.c
+	"main.h"
+
+1493087389 source:c:\users\phil\desktop\data structures\binarysearchtrees\lowestcommonancestor.c
+	"main.h"
+
+1493090271 source:c:\users\phil\desktop\data structures\binarysearchtrees\kthsmallest.c
+	"main.h"
+	<stdlib.h>
+
+1493176744 source:c:\users\phil\desktop\data structures\binarysearchtrees\linkedliststack.c
+	<stdlib.h>
+	<stdio.h>
+	"main.h"
+
+1493183673 source:c:\users\phil\desktop\data structures\binarysearchtrees\merge.c
+	"main.h"
+	<stdio.h>
+
+1493186569 source:c:\users\phil\desktop\data structures\binarysearchtrees\fixswapped.c
+	"main.h"
+	<stdio.h>
+
+1493185058 source:c:\users\phil\desktop\data structures\binarysearchtrees\printinorderwstack.c
+	"main.h"
+	<stdio.h>
+
+1493187227 source:c:\users\phil\desktop\data structures\binarysearchtrees\bstceil.c
+	"main.h"
+
+1493187813 source:c:\users\phil\desktop\data structures\binarysearchtrees\bstfloor.c
+	"main.h"
+
+1493197688 source:c:\users\phil\desktop\data structures\binarysearchtrees\dll2bst.c
+	"main.h"
+
+1493246325 source:c:\users\phil\desktop\data structures\binarysearchtrees\fillarray.c
+	"main.h"
+
+1493247712 source:c:\users\phil\desktop\data structures\binarysearchtrees\filltree.c
+	"main.h"
+
+1493246293 source:c:\users\phil\desktop\data structures\binarysearchtrees\getsize.c
+	"main.h"
+
+1493247588 source:c:\users\phil\desktop\data structures\binarysearchtrees\mergesort.c
+	"main.h"
+	<stdlib.h>
+
+1493248190 source:c:\users\phil\desktop\data structures\binarysearchtrees\tree2bst.c
+	"main.h"
+	<stdlib.h>
+
+1493267033 source:c:\users\phil\desktop\data structures\binarysearchtrees\getnextinorder.c
+	"main.h"
+
+1493267243 source:c:\users\phil\desktop\data structures\binarysearchtrees\getnextinreverse.c
+	"main.h"
+
+1493268714 source:c:\users\phil\desktop\data structures\binarysearchtrees\pairsum.c
+	"main.h"
+	<stdio.h>
+
+1493269596 source:c:\users\phil\desktop\data structures\binarysearchtrees\mergeprint.c
+	"main.h"
+	<stdio.h>
+
+1493271506 source:c:\users\phil\desktop\data structures\binarysearchtrees\bsts2list.c
+	"main.h"
+
+1493272676 source:c:\users\phil\desktop\data structures\binarysearchtrees\mergebsts.c
+	"main.h"
+
+1493272722 source:c:\users\phil\desktop\data structures\binarysearchtrees\removeduplicates.c
+	"main.h"
+	<stdlib.h>
+

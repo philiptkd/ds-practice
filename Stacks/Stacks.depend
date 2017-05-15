@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1491240007 source:c:\users\phil\desktop\data structures\stacks\createstack.c
+	"main.h"
+	<stdlib.h>
+
+1491440352 c:\users\phil\desktop\data structures\stacks\main.h
+
+1491240906 source:c:\users\phil\desktop\data structures\stacks\isempty.c
+	"main.h"
+
+1491252849 source:c:\users\phil\desktop\data structures\stacks\peek.c
+	"main.h"
+
+1491240608 source:c:\users\phil\desktop\data structures\stacks\pop.c
+	"main.h"
+	<stdlib.h>
+
+1491239979 source:c:\users\phil\desktop\data structures\stacks\printstack.c
+	"main.h"
+	<stdio.h>
+
+1491240309 source:c:\users\phil\desktop\data structures\stacks\push.c
+	"main.h"
+	<stdlib.h>
+
+1491517461 source:c:\users\phil\desktop\data structures\stacks\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1491336273 source:c:\users\phil\desktop\data structures\stacks\infix2postfix.c
+	"main.h"
+
+1491336196 source:c:\users\phil\desktop\data structures\stacks\evalpostfix.c
+	"main.h"
+
+1491336292 source:c:\users\phil\desktop\data structures\stacks\reversestring.c
+	"main.h"
+
+1491265603 c:\users\phil\desktop\data structures\stacks\arraydoublestack.h
+	<stdlib.h>
+	<stdio.h>
+
+1491334367 c:\users\phil\desktop\data structures\stacks\linkedliststack.h
+	<stdlib.h>
+	<stdio.h>
+
+1491336281 source:c:\users\phil\desktop\data structures\stacks\isbalanced.c
+	"main.h"
+
+1491336289 source:c:\users\phil\desktop\data structures\stacks\nextlarger.c
+	<stdio.h>
+	"main.h"
+
+1491339422 source:c:\users\phil\desktop\data structures\stacks\reversestack.c
+	"main.h"
+
+1491336173 source:c:\users\phil\desktop\data structures\stacks\arraydoublestack.c
+	<stdlib.h>
+	<stdio.h>
+	"main.h"
+
+1491336185 source:c:\users\phil\desktop\data structures\stacks\linkedliststack.c
+	<stdlib.h>
+	<stdio.h>
+	"main.h"
+
+1491341080 source:c:\users\phil\desktop\data structures\stacks\recursivesort.c
+	"main.h"
+
+1491378431 source:c:\users\phil\desktop\data structures\stacks\stockspan.c
+	"main.h"
+	<stdlib.h>
+
+1491414909 source:c:\users\phil\desktop\data structures\stacks\getmin.c
+	"main.h"
+
+1491422009 source:c:\users\phil\desktop\data structures\stacks\queuestack.c
+	"main.h"
+	<stdio.h>
+
+1491421507 source:c:\users\phil\desktop\data structures\stacks\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1491435397 source:c:\users\phil\desktop\data structures\stacks\midstack.c
+	"main.h"
+	<stdlib.h>
+	<stdio.h>
+
+1491441129 source:c:\users\phil\desktop\data structures\stacks\kstacks.c
+	"main.h"
+	<stdlib.h>
+
+1491506781 source:c:\users\phil\desktop\data structures\stacks\longestsub.c
+	"main.h"
+
+1491517514 source:c:\users\phil\desktop\data structures\stacks\highestlocalmin.c
+	"main.h"
+	<stdlib.h>
+
+1491515456 source:c:\users\phil\desktop\data structures\stacks\nextsmaller.c
+	"main.h"
+	<stdlib.h>
+
+1491515755 source:c:\users\phil\desktop\data structures\stacks\prevsmaller.c
+	"main.h"
+	<stdlib.h>
+

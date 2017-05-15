@@ -1,0 +1,5 @@
+Source code is in C and compiled with MinGW GCC compiler.
+
+Environment was Code::Blocks 13.12.
+
+All made as console applications.

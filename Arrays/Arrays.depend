@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1490395654 source:c:\users\phil\desktop\data structures\arrays\num.c
+
+1490769245 source:c:\users\phil\desktop\data structures\arrays\main.c
+	<stdio.h>
+
+1490493012 source:c:\users\phil\desktop\data structures\arrays\quicksort.c
+
+1490493256 source:c:\users\phil\desktop\data structures\arrays\findpair.c
+	<stdio.h>
+	<stdlib.h>
+
+1490493228 source:c:\users\phil\desktop\data structures\arrays\printlist.c
+	<stdio.h>
+
+1490493377 source:c:\users\phil\desktop\data structures\arrays\findmajorityelement.c
+
+1490494720 source:c:\users\phil\desktop\data structures\arrays\findoddoccurance.c
+
+1490511512 source:c:\users\phil\desktop\data structures\arrays\largestsubarray.c
+	<stdio.h>
+
+1490569135 source:c:\users\phil\desktop\data structures\arrays\missingno.c
+
+1490575315 source:c:\users\phil\desktop\data structures\arrays\findinrotated.c
+	<math.h>
+
+1490585120 source:c:\users\phil\desktop\data structures\arrays\mergearrays.c
+
+1490585135 source:c:\users\phil\desktop\data structures\arrays\swapelems.c
+
+1490601225 source:c:\users\phil\desktop\data structures\arrays\mergedmedian.c
+
+1490658496 source:c:\users\phil\desktop\data structures\arrays\reversearray.c
+	<stdio.h>
+
+1490663340 source:c:\users\phil\desktop\data structures\arrays\rotatearray.c
+
+1490718770 source:c:\users\phil\desktop\data structures\arrays\largestnonadjsub.c
+
+1490720571 source:c:\users\phil\desktop\data structures\arrays\leaders.c
+	<stdio.h>
+
+1490742120 source:c:\users\phil\desktop\data structures\arrays\findanindex.c
+
+1490760013 source:c:\users\phil\desktop\data structures\arrays\sortbyfreq.c
+	<stdio.h>
+
+1490742636 source:c:\users\phil\desktop\data structures\arrays\getfreq.c
+
+1490743969 source:c:\users\phil\desktop\data structures\arrays\decmergesortbykey.c
+
+1490766661 source:c:\users\phil\desktop\data structures\arrays\descmergesortbykey.c
+
+1490759906 source:c:\users\phil\desktop\data structures\arrays\quicksorttriplet.c
+
+1490768222 source:c:\users\phil\desktop\data structures\arrays\countinversions.c
+

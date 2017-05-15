@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1490896291 source:c:\users\phil\desktop\data structures\linkedlists\createlist.c
+	<stdlib.h>
+	"main.h"
+
+1490990137 source:c:\users\phil\desktop\data structures\linkedlists\main.c
+	"main.h"
+	<stdio.h>
+
+1490933350 source:c:\users\phil\desktop\data structures\linkedlists\printlist.c
+	"main.h"
+	<stdio.h>
+
+1490839358 c:\users\phil\desktop\data structures\linkedlists\main.h
+
+1490839391 source:c:\users\phil\desktop\data structures\linkedlists\push.c
+	<stdlib.h>
+	"main.h"
+
+1490838627 source:c:\users\phil\desktop\data structures\linkedlists\insertafter.c
+	"main.h"
+	<stdlib.h>
+
+1490839849 source:c:\users\phil\desktop\data structures\linkedlists\append.c
+	"main.h"
+	<stdlib.h>
+
+1490839983 source:c:\users\phil\desktop\data structures\linkedlists\insertnodedemo.c
+	"main.h"
+
+1490894471 source:c:\users\phil\desktop\data structures\linkedlists\deletefirstoccurrence.c
+	"main.h"
+	<stdlib.h>
+
+1490896897 source:c:\users\phil\desktop\data structures\linkedlists\deleteatpos.c
+	"main.h"
+	<stdlib.h>
+
+1490912953 source:c:\users\phil\desktop\data structures\linkedlists\getlength.c
+	"main.h"
+
+1490913544 source:c:\users\phil\desktop\data structures\linkedlists\isinlist.c
+	"main.h"
+	<stdio.h>
+
+1490926372 source:c:\users\phil\desktop\data structures\linkedlists\swapnodes.c
+	"main.h"
+
+1490930669 source:c:\users\phil\desktop\data structures\linkedlists\createbiggerlist.c
+	<stdlib.h>
+	"main.h"
+
+1490929939 source:c:\users\phil\desktop\data structures\linkedlists\getnth.c
+	"main.h"
+
+1490930613 source:c:\users\phil\desktop\data structures\linkedlists\getmid.c
+	"main.h"
+
+1490931513 source:c:\users\phil\desktop\data structures\linkedlists\nthfromend.c
+	"main.h"
+
+1490932157 source:c:\users\phil\desktop\data structures\linkedlists\deletelist.c
+	"main.h"
+	<stdlib.h>
+
+1490932640 source:c:\users\phil\desktop\data structures\linkedlists\numtimes.c
+	"main.h"
+
+1490933315 source:c:\users\phil\desktop\data structures\linkedlists\reverse.c
+	"main.h"
+
+1490990108 source:c:\users\phil\desktop\data structures\linkedlists\test.c
+	"main.h"
+	<stdlib.h>
+

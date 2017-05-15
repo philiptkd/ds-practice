@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1491196892 source:c:\users\phil\desktop\data structures\doublylinkedlists\main.c
+	"main.h"
+	<stdio.h>
+
+1491152990 source:c:\users\phil\desktop\data structures\doublylinkedlists\printlist.c
+	"main.h"
+	<stdio.h>
+
+1491092991 c:\users\phil\desktop\data structures\doublylinkedlists\main.h
+
+1491200538 source:c:\users\phil\desktop\data structures\doublylinkedlists\createlist.c
+	"main.h"
+	<stdlib.h>
+
+1491088213 source:c:\users\phil\desktop\data structures\doublylinkedlists\insertatpos.c
+	"main.h"
+	<stdlib.h>
+
+1491089355 source:c:\users\phil\desktop\data structures\doublylinkedlists\deleteatpos.c
+	"main.h"
+	<stdlib.h>
+
+1491091990 source:c:\users\phil\desktop\data structures\doublylinkedlists\reverse.c
+	"main.h"
+
+1491094148 source:c:\users\phil\desktop\data structures\doublylinkedlists\growextree.c
+	"main.h"
+	<stdlib.h>
+
+1491152294 source:c:\users\phil\desktop\data structures\doublylinkedlists\append.c
+	"main.h"
+
+1491153048 source:c:\users\phil\desktop\data structures\doublylinkedlists\tree2list.c
+	"main.h"
+
+1491154240 source:c:\users\phil\desktop\data structures\doublylinkedlists\printcircular.c
+	"main.h"
+	<stdio.h>
+
+1491164015 source:c:\users\phil\desktop\data structures\doublylinkedlists\copywithrand.c
+	"main.h"
+	<stdlib.h>
+
+1491164052 source:c:\users\phil\desktop\data structures\doublylinkedlists\printconnections.c
+	"main.h"
+	<stdio.h>
+
+1491164510 source:c:\users\phil\desktop\data structures\doublylinkedlists\createexrandlist.c
+	"main.h"
+	<stdlib.h>
+
+1491174422 source:c:\users\phil\desktop\data structures\doublylinkedlists\swap.c
+	"main.h"
+
+1491175952 source:c:\users\phil\desktop\data structures\doublylinkedlists\quicksort.c
+	"main.h"
+
+1491185528 source:c:\users\phil\desktop\data structures\doublylinkedlists\swapkths.c
+	"main.h"
+
+1491201038 source:c:\users\phil\desktop\data structures\doublylinkedlists\mergesort.c
+	"main.h"
+	<stdlib.h>
+

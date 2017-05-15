@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1492123354 source:c:\users\phil\desktop\data structures\binarytrees\newnode.c
+	"main.h"
+	<stdlib.h>
+
+1492484493 c:\users\phil\desktop\data structures\binarytrees\main.h
+
+1492622835 source:c:\users\phil\desktop\data structures\binarytrees\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1492616355 source:c:\users\phil\desktop\data structures\binarytrees\printtree.c
+	"main.h"
+	<stdio.h>
+
+1492125681 source:c:\users\phil\desktop\data structures\binarytrees\linkedliststack.c
+	<stdlib.h>
+	<stdio.h>
+	"main.h"
+
+1492034324 source:c:\users\phil\desktop\data structures\binarytrees\listqueue.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1492126993 source:c:\users\phil\desktop\data structures\binarytrees\printlevels.c
+	"main.h"
+	<stdio.h>
+
+1492137971 source:c:\users\phil\desktop\data structures\binarytrees\inorderwithstack.c
+	"main.h"
+	<stdio.h>
+
+1492474446 source:c:\users\phil\desktop\data structures\binarytrees\threadtree.c
+	"main.h"
+	<stdio.h>
+
+1492475232 source:c:\users\phil\desktop\data structures\binarytrees\sizeof.c
+	"main.h"
+
+1492475913 source:c:\users\phil\desktop\data structures\binarytrees\aresametree.c
+	"main.h"
+
+1492476284 source:c:\users\phil\desktop\data structures\binarytrees\heightof.c
+	"main.h"
+
+1492477014 source:c:\users\phil\desktop\data structures\binarytrees\deletetree.c
+	"main.h"
+	<stdlib.h>
+
+1492477899 source:c:\users\phil\desktop\data structures\binarytrees\mirrortree.c
+	"main.h"
+
+1492481050 source:c:\users\phil\desktop\data structures\binarytrees\printallpaths.c
+	"main.h"
+	<stdlib.h>
+	<stdio.h>
+
+1492482680 source:c:\users\phil\desktop\data structures\binarytrees\countleaves.c
+	"main.h"
+
+1492487665 source:c:\users\phil\desktop\data structures\binarytrees\levelspiral.c
+	"main.h"
+	<stdio.h>
+
+1491872938 source:c:\users\phil\desktop\data structures\binarytrees\listdeque.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1492488535 source:c:\users\phil\desktop\data structures\binarytrees\checkchildrensum.c
+	"main.h"
+
+1492616523 source:c:\users\phil\desktop\data structures\binarytrees\convert2childrensum.c
+	"main.h"
+
+1492621714 source:c:\users\phil\desktop\data structures\binarytrees\getdiameter.c
+	"main.h"
+
+1492623790 source:c:\users\phil\desktop\data structures\binarytrees\isheightbalanced.c
+	"main.h"
+
+1492624978 source:c:\users\phil\desktop\data structures\binarytrees\hassumpath.c
+	"main.h"
+

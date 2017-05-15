@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1492034324 source:c:\users\phil\desktop\data structures\queues\listqueue.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1492063661 c:\users\phil\desktop\data structures\queues\main.h
+
+1492066244 source:c:\users\phil\desktop\data structures\queues\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1491593524 source:c:\users\phil\desktop\data structures\queues\arrayqueue.c
+	"main.h"
+	<stdio.h>
+	<stdlib.h>
+
+1491872938 source:c:\users\phil\desktop\data structures\queues\listdeque.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1491875849 source:c:\users\phil\desktop\data structures\queues\arraydeque.c
+	"main.h"
+
+1491878252 source:c:\users\phil\desktop\data structures\queues\linkedliststack.c
+	<stdlib.h>
+	<stdio.h>
+	"main.h"
+
+1491879017 source:c:\users\phil\desktop\data structures\queues\stackqueue.c
+	"main.h"
+	<stdlib.h>
+	<stdio.h>
+
+1491938903 source:c:\users\phil\desktop\data structures\queues\iscompletetree.c
+	"main.h"
+
+1492063051 source:c:\users\phil\desktop\data structures\queues\growextree.c
+	"main.h"
+	<stdlib.h>
+
+1491944033 source:c:\users\phil\desktop\data structures\queues\largestmultipleofthree.c
+	"main.h"
+	<stdio.h>
+
+1490493012 source:c:\users\phil\desktop\data structures\queues\quicksort.c
+
+1491960273 source:c:\users\phil\desktop\data structures\queues\circulartour.c
+	"main.h"
+	<stdio.h>
+
+1491969085 source:c:\users\phil\desktop\data structures\queues\maxofallksubs.c
+	"main.h"
+	<stdio.h>
+
+1491970357 source:c:\users\phil\desktop\data structures\queues\genbinary.c
+	"main.h"
+	<stdio.h>
+
+1492037598 source:c:\users\phil\desktop\data structures\queues\kqueues.c
+	"main.h"
+	<stdlib.h>
+
+1492058076 source:c:\users\phil\desktop\data structures\queues\queue2.c
+	"main.h"
+	<stdlib.h>
+	<stdio.h>
+
+1492063070 source:c:\users\phil\desktop\data structures\queues\rottime.c
+	"main.h"
+
+1492062622 source:c:\users\phil\desktop\data structures\queues\gettreeheight.c
+	"main.h"
+
+1492064968 source:c:\users\phil\desktop\data structures\queues\list2tree.c
+	"main.h"
+	<stdlib.h>
+
+1492065481 source:c:\users\phil\desktop\data structures\queues\createexlist.c
+	"main.h"
+	<stdlib.h>
+
+1492066281 source:c:\users\phil\desktop\data structures\queues\printtree.c
+	"main.h"
+	<stdio.h>
+	<stdlib.h>
+

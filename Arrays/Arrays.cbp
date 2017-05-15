@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Arrays" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Arrays" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Arrays" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="countInversions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="descMergeSortByKey.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="findAnIndex.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="findInRotated.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="findMajorityElement.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="findOddOccurance.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="findPair.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="getFreq.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="largestNonadjSub.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="largestSubArray.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="leaders.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mergeArrays.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mergedMedian.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="missingNo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printList.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="quickSort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="quickSortTriplet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="reverseArray.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="rotateArray.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sortByFreq.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="swapElems.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

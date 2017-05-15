@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="BinaryTrees" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/BinaryTrees" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/BinaryTrees" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="areSameTree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="checkChildrenSum.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="convert2ChildrenSum.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="countLeaves.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="deleteTree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="getDiameter.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="hasSumPath.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="heightOf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="inOrderWithStack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="isHeightBalanced.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="levelSpiral.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="linkedListStack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listDeque.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listQueue.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.h" />
+		<Unit filename="mirrorTree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="newNode.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printAllPaths.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printLevels.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printTree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sizeOf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="threadTree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

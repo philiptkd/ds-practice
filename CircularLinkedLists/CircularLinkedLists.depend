@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1490995347 source:c:\users\phil\desktop\data structures\circularlinkedlists\createlist.c
+	"main.h"
+	<stdlib.h>
+
+1490987921 c:\users\phil\desktop\data structures\circularlinkedlists\main.h
+
+1490997023 source:c:\users\phil\desktop\data structures\circularlinkedlists\main.c
+	"main.h"
+
+1490995255 source:c:\users\phil\desktop\data structures\circularlinkedlists\printlist.c
+	"main.h"
+	<stdio.h>
+
+1490995144 source:c:\users\phil\desktop\data structures\circularlinkedlists\split.c
+	"main.h"
+
+1490996965 source:c:\users\phil\desktop\data structures\circularlinkedlists\sortedinsert.c
+	"main.h"
+	<stdlib.h>
+

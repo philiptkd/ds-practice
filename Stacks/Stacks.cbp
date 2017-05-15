@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Stacks" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Stacks" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Stacks" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="arrayDoubleStack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="evalPostFix.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="getMin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="highestLocalMin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="inFix2PostFix.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="isBalanced.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kStacks.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="linkedListStack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="longestSub.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.h" />
+		<Unit filename="midStack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="nextLarger.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="nextSmaller.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="prevSmaller.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="queue.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="queueStack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="recursiveSort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="reverseStack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="reverseString.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="stockSpan.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
