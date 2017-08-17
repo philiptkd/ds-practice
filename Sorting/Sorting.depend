@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1498464067 source:c:\users\phil\desktop\data structures\sorting\main.c
+	"main.h"
+	<stdio.h>
+
+1498464059 c:\users\phil\desktop\data structures\sorting\main.h
+
+1498452736 source:c:\users\phil\desktop\data structures\sorting\insertionsort.c
+	"main.h"
+
+1498461073 source:c:\users\phil\desktop\data structures\sorting\quicksort.c
+	"main.h"
+	<time.h>
+	<stdlib.h>
+
+1498464122 source:c:\users\phil\desktop\data structures\sorting\mergesort.c
+	"main.h"
+	<stdlib.h>
+
+1498462670 source:c:\users\phil\desktop\data structures\sorting\heapsort.c
+	"main.h"
+
+1498464450 source:c:\users\phil\desktop\data structures\sorting\countingsort.c
+	"main.h"
+	<stdlib.h>
+
+1498462670 source:c:\users\phil\documents\github\ds-practice\sorting\heapsort.c
+	"main.h"
+
+1498805081 c:\users\phil\documents\github\ds-practice\sorting\main.h
+
+1498452736 source:c:\users\phil\documents\github\ds-practice\sorting\insertionsort.c
+	"main.h"
+
+1498808623 source:c:\users\phil\documents\github\ds-practice\sorting\main.c
+	"main.h"
+	<stdio.h>
+
+1498464122 source:c:\users\phil\documents\github\ds-practice\sorting\mergesort.c
+	"main.h"
+	<stdlib.h>
+
+1498461073 source:c:\users\phil\documents\github\ds-practice\sorting\quicksort.c
+	"main.h"
+	<time.h>
+	<stdlib.h>
+
+1498464693 source:c:\users\phil\documents\github\ds-practice\sorting\countingsort.c
+	"main.h"
+	<stdlib.h>
+
+1498799905 source:c:\users\phil\documents\github\ds-practice\sorting\radixsort.c
+	"main.h"
+	<stdlib.h>
+
+1498810119 source:c:\users\phil\documents\github\ds-practice\sorting\shellsort.c
+	"main.h"
+	<stdlib.h>
+	<math.h>
+

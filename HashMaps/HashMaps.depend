@@ -3,3 +3,43 @@
 	<stdio.h>
 	<stdlib.h>
 
+1496711181 source:c:\users\phil\documents\github\ds-practice\hashmaps\main.c
+	"main.h"
+	<stdio.h>
+	<stdlib.h>
+
+1496697631 source:c:\users\phil\documents\github\ds-practice\hashmaps\printtreevertically.c
+	"main.h"
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+
+1496712916 c:\users\phil\documents\github\ds-practice\hashmaps\main.h
+
+1496696630 source:c:\users\phil\documents\github\ds-practice\hashmaps\newnode.c
+	"main.h"
+	<stdlib.h>
+
+1496704761 source:c:\users\phil\documents\github\ds-practice\hashmaps\isarrsubset.c
+	"main.h"
+
+1496708942 source:c:\users\phil\documents\github\ds-practice\hashmaps\printcircularlist.c
+	"main.h"
+	<stdio.h>
+
+1496708999 source:c:\users\phil\documents\github\ds-practice\hashmaps\unionandintersection.c
+	"main.h"
+	<stdio.h>
+
+1496709057 source:c:\users\phil\documents\github\ds-practice\hashmaps\newlistnode.c
+	"main.h"
+	<stdlib.h>
+
+1496710920 source:c:\users\phil\documents\github\ds-practice\hashmaps\checkforsum.c
+	"main.h"
+
+1496712934 source:c:\users\phil\documents\github\ds-practice\hashmaps\duplicateswithink.c
+	"main.h"
+	<stdlib.h>
+
